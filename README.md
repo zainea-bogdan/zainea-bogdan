@@ -10,7 +10,7 @@ I am actively seeking opportunities to gain practical experience in the data dom
 ## 💼 What Tech Stack I am used working with?
 
 - 🥇 🛢️ **SQL** – Primarily working with **Oracle** and **PostgreSQL** to deepen my understanding of relational databases, focusing on design, query optimization, and administration. 
-- 🥈 🐍 **Python** – Developing a ETL pipeline for my end-to-end data projects (currently working on [this one](https://github.com/zainea-bogdan/Data_Engineer_Project_WoWCinema)); also used in academic settings for implementing genetic algorithms  
+- 🥈 🐍 **Python** – Developing ETL pipelines for my end-to-end data projects (currently working on [this one](https://github.com/zainea-bogdan/Data_Engineer_Project_WoWCinema)); also used in academic settings for implementing genetic algorithms  
 - 🥉 🔧 **Git / GitHub** – Used for version control, code management, and collaborative development workflows.
 - 🌐 **HTML / CSS / Vanilla JavaScript** – Building and experimenting with a personal portfolio website (work in progress)  
 - 💻 **C / C++** – Exploring low-level programming principles through university courses such as **Algorithms and Programming Techniques** and **Data Structures**  
