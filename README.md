@@ -24,16 +24,6 @@ I am actively seeking opportunities to gain practical experience in the data dom
 - 💻  **[Assembly](https://github.com/zainea-bogdan/Reading_a_number_from_keyboard_ASM) & Bash Scripting**
     -  Acquainted with foundational concepts, introduced through academic coursework.
 
-## 🤝 Soft Skills
-
-- Fast Learner  
-- Team Player 
-- Effective Communicator  
-- Time Management  
-- Critical Thinking  
-- Quick Decision-Maker
-
-
 ## 📈 GitHub Activity
 ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
