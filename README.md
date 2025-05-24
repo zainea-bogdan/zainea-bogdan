@@ -25,5 +25,9 @@ I am actively seeking opportunities to gain practical experience in the data dom
     -  Acquainted with foundational concepts, introduced through academic coursework.
 
 ## 📈 GitHub Activity
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact" alt="zainea-bogdan" />
+</div>
+
 ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
