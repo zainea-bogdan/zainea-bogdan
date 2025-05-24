@@ -1,5 +1,15 @@
 # 👋 Hi everyone!
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan" />
+</div>
+
+![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan" />
+</div>
+
 ## 🤔 Who am I?
 My name is **Zainea Bogdan**, a motivated second-year student currently pursuing a Bachelor’s degree in **Economic Informatics**.
 
@@ -23,16 +33,3 @@ I am actively seeking opportunities to gain practical experience in the data dom
     -  Creating a WinForms application using the .NET Framework (to be published after final adjustments and review)  
 - 💻  **[Assembly](https://github.com/zainea-bogdan/Reading_a_number_from_keyboard_ASM) & Bash Scripting**
     -  Acquainted with foundational concepts, introduced through academic coursework.
-
-## 📈 GitHub Activity
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan" />
-</div>
-
-![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan" />
-</div>
-
-
