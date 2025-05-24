@@ -34,6 +34,6 @@ I am actively seeking opportunities to gain practical experience in the data dom
 - Quick Decision-Maker
 
 
-## 📉 GitHub Activity
+## 📈 GitHub Activity
 ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
