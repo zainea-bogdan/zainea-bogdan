@@ -3,5 +3,5 @@
 
 ## 📉 GitHub Activity
 
-![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=radical)
+![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
