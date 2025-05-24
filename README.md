@@ -31,3 +31,8 @@ I am actively seeking opportunities to gain practical experience in the data dom
 
 ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan" />
+</div>
+
+
