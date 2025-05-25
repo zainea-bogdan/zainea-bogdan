@@ -5,11 +5,12 @@
 </div>
 
 ## 🤔 Who am I?
-My name is **Zainea Bogdan**, a motivated second-year student currently pursuing a Bachelor’s degree in **Economic Informatics**.
+My name is **Zainea Bogdan** , a motivated second-year student pursuing a Bachelor’s degree in **Economic Informatics**.
 
-I am actively seeking opportunities to gain practical experience in the data domain, through _projects_, _internships_, or _collaborative work_, particularly in areas such as **Data Engineering** and **Data Science**, with a focused interest in the _Big Data industry_.In parallel, I cultivate an _interest in Web Development_ to further expand my technical competencies.
+I am actively seeking opportunities to gain _practical experience_ in the data domain, whether through _projects_, _internships_, or _collaborative work_. My primary interests lie in **Data Engineering** and **Data Science**, with a strong focus on the _Big Data industry_.
+In parallel, I nurture an interest in **Web Development** to broaden my technical skill set.
 
-**My core objective** is to continually advance my skill set while building meaningful, results-oriented professional relationships with like-minded individuals.
+**My core objective** is to continually enhance my abilities while building meaningful, results-oriented professional relationships with like-minded individuals.
 
 ## 💼 What Tech Stack I am used working with?
 
