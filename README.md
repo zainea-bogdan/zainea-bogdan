@@ -1,10 +1,11 @@
 # 👋 Hi everyone!
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan" align="right"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan"/>
 </div>
 
+<br clear="all"/>
 
 ## 🤔 Who am I?
 My name is **Zainea Bogdan** , a motivated second-year student pursuing a Bachelor’s degree in **Economic Informatics**.
