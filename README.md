@@ -5,6 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan" align="right"/>
 </div>
 
+--
 ## 🤔 Who am I?
 My name is **Zainea Bogdan** , a motivated second-year student pursuing a Bachelor’s degree in **Economic Informatics**.
 
