@@ -3,6 +3,9 @@
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan" />
 </div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan" />
+</div>
 
 ## 🤔 Who am I?
 My name is **Zainea Bogdan** , a motivated second-year student pursuing a Bachelor’s degree in **Economic Informatics**.
@@ -29,9 +32,7 @@ In parallel, I nurture an interest in **Web Development** to broaden my technica
 - 💻  **[Assembly](https://github.com/zainea-bogdan/Reading_a_number_from_keyboard_ASM) & Bash Scripting**
     -  Acquainted with foundational concepts, introduced through academic coursework.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan" />
-</div>
+
 
 ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
