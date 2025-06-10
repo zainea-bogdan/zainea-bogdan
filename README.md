@@ -36,6 +36,6 @@ In parallel, I nurture an interest in **Web Development** to broaden my technica
 
 ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=zainea-bogdan&theme=codeSTACKr&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zainea-bogdan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
 
 
