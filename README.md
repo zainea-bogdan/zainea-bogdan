@@ -1,9 +1,6 @@
 # 👋 Hi everyone!
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan"/>
-</div>
+
 
 <br clear="all"/>
 
@@ -32,10 +29,12 @@ In parallel, I nurture an interest in **Web Development** to broaden my technica
 - 💻  **[Assembly](https://github.com/zainea-bogdan/Reading_a_number_from_keyboard_ASM) & Bash Scripting**
     -  Acquainted with foundational concepts, introduced through academic coursework.
 
+## Github Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan"/>
+  ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
 
-
-![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
-
+## Github Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=zainea-bogdan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
 
 
