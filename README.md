@@ -35,5 +35,6 @@ In parallel, I nurture an interest in **Web Development** to broaden my technica
 
 
 ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
-[![](https://visitcount.itsvg.in/api?id=Serban-Timofte-EBR&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://github-profile-trophy.vercel.app/?username=zainea-bogdan&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
 
