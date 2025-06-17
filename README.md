@@ -1,10 +1,4 @@
 # 👋 Hi everyone!
-
-
-
-<br clear="all"/>
-
-## 🤔 Who am I?
 My name is **Zainea Bogdan** , a motivated second-year student pursuing a Bachelor’s degree in **Economic Informatics**.
 
 I am actively seeking opportunities to gain _practical experience_ in data domains, whether through _projects_, _internships_, or _collaborative work_. My primary interests lie in **Data Engineering** and **Data Science**, with a strong focus on the _Big Data industry_.
