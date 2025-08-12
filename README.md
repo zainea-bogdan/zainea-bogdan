@@ -9,7 +9,6 @@
 
 ---
 
-
 I’m in my final year of **Economic Informatics**, getting ready for my bachelor’s thesis — most likely a full-stack app I’ll be proud to showcase in my portfolio.  
 
 I’ve always been the kind of person who can’t sit still when there’s something to build. If an idea pops into my head, I like to turn it into something tangible — sometimes it grows into a full web app, other times it’s a data pipeline, and often it’s just a small experiment to learn something new.  
@@ -20,7 +19,7 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -30,44 +29,43 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 ![Angular](https://img.shields.io/badge/Angular-1e1e1e?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e1e1e?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
-
 **Backend:**  
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1e1e1e?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1e1e?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![REST API](https://img.shields.io/badge/REST_API-1e1e1e?style=for-the-badge&logo=rest&logoColor=02569B)
 
 **Databases & Data Engineering:**  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle Apex](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge&logo=data:image/svg+xml;base64,...)
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehouse-5B5EA6?style=for-the-badge)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=316192)
+![Oracle](https://img.shields.io/badge/Oracle-1e1e1e?style=for-the-badge&logo=oracle&logoColor=F80000)
+![Power BI](https://img.shields.io/badge/Power_BI-1e1e1e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![ETL](https://img.shields.io/badge/ETL-1e1e1e?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-1e1e1e?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-1e1e1e?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 **Programming Languages:**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/_-ASM-black.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1e1e1e?style=for-the-badge&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Assembly](https://img.shields.io/badge/Assembly-1e1e1e?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF)
+![Bash Script](https://img.shields.io/badge/Bash_Script-1e1e1e?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
 
 **Tools & IDEs:**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05033)
+![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![PyCharm](https://img.shields.io/badge/PyCharm-1e1e1e?style=for-the-badge&logo=pycharm&logoColor=21D789)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1e1e1e?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-1e1e1e?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-1e1e1e?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
+![.NET](https://img.shields.io/badge/.NET-1e1e1e?style=for-the-badge&logo=.net&logoColor=5C2D91)
+
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:
 
 - **[WoWCinema](https://github.com/zainea-bogdan/WoWCinema)**  
   End-to-end data project: ETL → PostgreSQL DW → Power BI dashboards.  
@@ -91,16 +89,17 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 ---
 
-## 📚 Learning Now
-- HTML-CSS-JS - enrich the fundamentals
-- React/Angular  
-- Spring Boot & Node.js+Express
-- Python - Pandas-Numpy-Matplot
-- Full-stack architecture for my thesis
+## 📚 Learning Now:
+- **HTML, CSS & JavaScript** – strengthening my core web development fundamentals  
+- **React or Angular** – exploring both to decide which fits my style and future projects best  
+- **Spring Boot or Node.js + Express** – comparing different back-end approaches for scalability and ease of development  
+- **Python (Pandas, NumPy, Matplotlib)** – handling and visualizing data efficiently  
+- **Full-stack architecture** – designing and implementing my bachelor’s thesis project
+
 
 ---
 
-## 📊Github Stats
+## 📊Github Stats:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan"/>
   
