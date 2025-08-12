@@ -98,5 +98,17 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 ---
 
+## 📊Github Stats
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan"/>
+  
+  ![Bogdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainea-bogdan&show_icons=true&theme=codeSTACKr)
+
+## 🏆Github Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=zainea-bogdan&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7)
+
+
+---
+
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/bogdan-zainea/) • [Portfolio]() • [Email](mailto:zaineabogdan@gmail.com)
