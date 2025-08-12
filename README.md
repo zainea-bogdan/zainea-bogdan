@@ -39,8 +39,8 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Oracle](https://img.shields.io/badge/Oracle-1e1e1e?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![Power BI](https://img.shields.io/badge/Power_BI-1e1e1e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![ETL](https://img.shields.io/badge/ETL-1e1e1e?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-1e1e1e?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![ETL](https://img.shields.io/badge/ETL-1e1e1e?style=for-the-badge&logoColor=FF3621)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-1e1e1e?style=for-the-badge&logoColor=4285F4)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-1e1e1e?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 **Programming Languages:**  
