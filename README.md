@@ -11,7 +11,7 @@
 
 I’m in my final year of **Economic Informatics**, getting ready for my bachelor’s thesis — most likely a full-stack app I’ll be proud to showcase in my portfolio.  
 
-I’ve always been the kind of person who can’t sit still when there’s something to build. If an idea pops into my head, I like to turn it into something tangible — sometimes it grows into a full web app, other times it’s a data pipeline, and often it’s just a small experiment to learn something new.  
+Lately, I’ve been growing into the kind of person who enjoys taking a real or fictional business context and turning it into something tangible and practical. Sometimes that becomes a full web app, other times it’s a data pipeline, and often it starts as a small experiment to test an idea or solve a specific problem.
 
 Right now, my main focus is **full-stack development**. I’m starting from the ground up, making sure my fundamentals in HTML, CSS, JavaScript, and modern styling tools like Tailwind CSS are rock solid. From there, I’m gradually moving into frameworks and back-end tools like React/Angular and Spring Boot/Node.js, aiming to take projects from idea all the way to deployment on my own.  
 
