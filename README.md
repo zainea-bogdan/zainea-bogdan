@@ -64,7 +64,7 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 - **[WoWCinema](https://github.com/zainea-bogdan/WoWCinema)**  
   End-to-end data project: ETL → PostgreSQL DW → Power BI dashboards.  
-  *Python, PostgreSQL, Power BI, Docker*
+  *Python, PostgreSQL, Power BI*
 
 - **[FRF Football Analytics](https://github.com/zainea-bogdan/FRF-Football-Analytics)**  
   Data pipeline and analytics project using Romanian Football Federation data.  
@@ -80,7 +80,7 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 - **[Library Management System](https://github.com/zainea-bogdan/Library-Management-Oracle-APEX)**  
   Oracle APEX app with CRUD, authentication, and responsive UI.  
-  *Oracle APEX, PL/SQL, HTML, CSS*
+  *Oracle APEX, PL/SQL, HTML, CSS, Vanila JS*
 
 ---
 
