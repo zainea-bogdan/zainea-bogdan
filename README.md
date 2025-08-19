@@ -68,7 +68,7 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 - **[FRF Football Analytics](https://github.com/zainea-bogdan/FRF-Football-Analytics)**  
   Data pipeline and analytics project using Romanian Football Federation data.  
-  *Python, PostgreSQL, Power BI, ETL*
+  *Python: Jupyter Notebook + Flask*
 
 - **[Student Management System](https://github.com/zainea-bogdan/Student-Management-System)**  
   Web app for managing students, grades, and courses with authentication and CRUD features.  
