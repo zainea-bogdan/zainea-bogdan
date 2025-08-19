@@ -72,7 +72,7 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 - **[Student Management System](https://github.com/zainea-bogdan/Student-Management-System)**  
   Web app for managing students, grades, and courses with authentication and CRUD features.  
-  *Java, Spring Boot, MySQL, Thymeleaf*
+  *C#, WinForms, PostgreSQL*
 
 - **[Home Delivery App](https://github.com/zainea-bogdan/Home-Delivery-CSharp-PostgreSQL)**  
   Desktop delivery app with admin/client flows.  
