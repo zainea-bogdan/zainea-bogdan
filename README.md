@@ -25,14 +25,10 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-1e1e1e?style=for-the-badge&logo=angular&logoColor=DD0031)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e1e1e?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-1e1e1e?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1e1e?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![REST API](https://img.shields.io/badge/REST_API-1e1e1e?style=for-the-badge&logo=rest&logoColor=02569B)
 
 **Databases & Data Engineering:**  
@@ -55,7 +51,6 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 **Tools & IDEs:**  
 ![GitHub](https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05033)
-![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=0db7ed)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1e1e1e?style=for-the-badge&logo=pycharm&logoColor=21D789)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1e1e1e?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-1e1e1e?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
@@ -90,11 +85,27 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 ---
 
 ## 📚 Learning Now:
-- **HTML, CSS & JavaScript** – strengthening my core web development fundamentals  
-- **React or Angular** – exploring both to decide which fits my style and future projects best  
-- **Spring Boot or Node.js + Express** – comparing different back-end approaches for scalability and ease of development  
-- **Python (Pandas, NumPy, Matplotlib)** – handling and visualizing data efficiently  
-- **Full-stack architecture** – designing and implementing my bachelor’s thesis project
+
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-1e1e1e?style=for-the-badge&logo=angular&logoColor=DD0031)
+
+**Backend & Devops:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e1e1e?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1e1e1e?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=0db7ed)
+
+**Data Science & Python Libraries:**  
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-1e1e1e?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-1e1e1e?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1e1e1e?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+
+**Full-Stack Architecture:**  
+📖 Applying these technologies to design and implement my **Bachelor’s Thesis Project**
+
 
 
 ---
