@@ -84,7 +84,7 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 ---
 
-## 📚 Learning Now:
+## 📚 Improving Now:
 
 **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
