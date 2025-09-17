@@ -67,11 +67,11 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
   *Python, PostgreSQL, Power BI*
 
 - **[FRF Football Analytics](https://github.com/zainea-bogdan/FRF-Football-Analytics)**  
-  Data pipeline and analytics project using Romanian Football Federation data.  
+  Jupyter Notebook with analysis step alongside a Flask GUI, for easire interaction with the data.  
   *Python: Jupyter Notebook + Flask*
 
 - **[Student Management System](https://github.com/zainea-bogdan/Student-Management-System)**  
-  Web app for managing students, grades, and courses with authentication and CRUD features.  
+  Desktop app for managing students, grades, and courses with authentication and CRUD features.  
   *C#, WinForms, PostgreSQL*
 
 - **[Home Delivery App](https://github.com/zainea-bogdan/Home-Delivery-CSharp-PostgreSQL)**  
