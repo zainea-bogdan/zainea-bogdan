@@ -97,11 +97,13 @@ My key responsibilities include:
 ![Express.js](https://img.shields.io/badge/Express.js-1e1e1e?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=0db7ed)
 
-**Data Science & Python Libraries:**  
+**Data Engineering & Analytics:**  
 ![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-1e1e1e?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1e1e?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1e1e1e?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+![Seaborn](https://img.shields.io/badge/Seaborn-1e1e1e?style=for-the-badge&logo=python&logoColor=3776AB)
+![mplsoccer](https://img.shields.io/badge/mplsoccer-1e1e1e?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 **Cloud & Platforms:**  
