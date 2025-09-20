@@ -2,20 +2,20 @@
 
 💡 **A few quick facts about me:**  
 - 🎓 Final-year student, pursuing a Bachelor Degree in **Economic Informatics**, at ASE, in Romania  
-- 🌍 Interested in both **full-stack development** and **data engineering**  
+- 🌍 Interested in both **full-stack development**, **data engineering** and **machine learning**  
 - 💻 Worked with **C#, Python, PostgreSQL, PL/SQL, HTML, CSS, Vanilla JS, Oracle APEX**, and more  
 - 🛠 Built projects from **ETL pipelines** to **responsive web apps**  
-- 📈 Always looking for new ways to combine creativity with logic
+- 📈 Always looking for new ways to combine creativity with tech
 
 ---
 
-I’m in my final year of **Economic Informatics**, getting ready for my bachelor’s thesis — most likely a full-stack app I’ll be proud to showcase in my portfolio.  
+I’m currently working as a **Data Engineer Intern at the Romanian Football Federation**, focusing on a project that develops extensive **pre-match and post-match analysis** for Romania’s **U19 national football team**, preparing for the upcoming Euro qualifications. ⚽📊  
 
-Lately, I’ve been growing into the kind of person who enjoys taking a real or fictional business context and turning it into something tangible and practical. Sometimes that becomes a full web app, other times it’s a data pipeline, and often it starts as a small experiment to test an idea or solve a specific problem.
+My key responsibilities include:  
+- Designing and building reliable MVPs locally (“off-cloud”) for rapid prototyping and testing of data processing methods, using **Python, Power BI, and databases such as BigQuery or Postgres**.  
+- Deploying the MVPs on **Google Cloud Platform (GCP)** to ensure robust data pipelines, scalability, and faster computing performance.  
+- Creating and maintaining **technical documentation** to ensure clarity, reproducibility, and future scalability of the process.  
 
-Right now, my main focus is **full-stack development**. I’m starting from the ground up, making sure my fundamentals in HTML, CSS, JavaScript, and modern styling tools like Tailwind CSS are rock solid. From there, I’m gradually moving into frameworks and back-end tools like React/Angular and Spring Boot/Node.js, aiming to take projects from idea all the way to deployment on my own.  
-
-Along the way, I’ve also built a strong foundation in **data engineering** — working on ETL pipelines, PostgreSQL DBs, and Power BI dashboards. I still keep those skills sharp, but I treat them as a separate path from my full-stack journey.
 
 ---
 
@@ -103,9 +103,10 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 ![NumPy](https://img.shields.io/badge/NumPy-1e1e1e?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1e1e1e?style=for-the-badge&logo=plotly&logoColor=3F4F75)
 
-**Full-Stack Architecture:**  
-📖 Applying these technologies to design and implement my **Bachelor’s Thesis Project**
 
+**Cloud & Platforms:**  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-1e1e1e?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Oracle](https://img.shields.io/badge/Oracle-1e1e1e?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 
 ---
@@ -122,5 +123,14 @@ Along the way, I’ve also built a strong foundation in **data engineering** —
 
 ---
 
+## Anime 🙈
+
+I recharge with anime. Favorites so far:  
+- **Cyberpunk: Edgerunners** 🌃  
+- **Demon Slayer** 🔥  
+- **Fire Force** 🚒  
+- **The Fragrant Flower Blooms With Dignity** 🌸 (don't judge :) )  
+
+---
 ## 📫 Reach Me
 [LinkedIn](https://www.linkedin.com/in/zainea-bogdan-b38518242)) • [Portfolio](https://zainea-bogdan.github.io/Bodoz_Portofolio)
