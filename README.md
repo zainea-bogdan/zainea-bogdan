@@ -90,6 +90,7 @@ My key responsibilities include:
 ## 📚 Improving Now via University Courses / Job / Online courses:
 
 **Full Stack Dev:**
+
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -103,6 +104,7 @@ My key responsibilities include:
 
 
 **Data engineering and Analytics:**
+
 ![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-1e1e1e?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1e1e?style=for-the-badge&logo=numpy&logoColor=013243)
@@ -113,9 +115,11 @@ My key responsibilities include:
 + ML Stuff ( to be added )
 
 **Cloud & Platforms:**  
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-1e1e1e?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 
 **Android Development**
+
 ![Android Studio](https://img.shields.io/badge/Android_Studio-1e1e1e?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 
 ---
@@ -124,6 +128,7 @@ My key responsibilities include:
 ## 🛠 Technologies I interacted/worked with:
 
 **Frontend:**  
+
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -131,6 +136,7 @@ My key responsibilities include:
 ![Angular](https://img.shields.io/badge/Angular-1e1e1e?style=for-the-badge&logo=angular&logoColor=DD0031)
 
 **Backend:**  
+
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-1e1e1e?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![REST API](https://img.shields.io/badge/REST_API-1e1e1e?style=for-the-badge&logo=rest&logoColor=02569B)
@@ -138,6 +144,7 @@ My key responsibilities include:
 ![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=for-the-badge&logo=docker&logoColor=0db7ed)
 
 **Databases**  
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-1e1e1e?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![Power BI](https://img.shields.io/badge/Power_BI-1e1e1e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
@@ -146,6 +153,7 @@ My key responsibilities include:
 
 
 **Data Engineering & Analytics:**  
+
 ![Python](https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-1e1e1e?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1e1e?style=for-the-badge&logo=numpy&logoColor=013243)
@@ -154,6 +162,7 @@ My key responsibilities include:
 ![mplsoccer](https://img.shields.io/badge/mplsoccer-1e1e1e?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Programming Languages:**  
+
 ![C#](https://img.shields.io/badge/C%23-1e1e1e?style=for-the-badge&logo=csharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/C++-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=00599C)
@@ -161,7 +170,8 @@ My key responsibilities include:
 ![Assembly](https://img.shields.io/badge/Assembly-1e1e1e?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-1e1e1e?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)
 
-**Tools & IDEs:**  
+**Tools & IDEs:**
+
 ![GitHub](https://img.shields.io/badge/GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F05033)
 ![PyCharm](https://img.shields.io/badge/PyCharm-1e1e1e?style=for-the-badge&logo=pycharm&logoColor=21D789)
@@ -171,12 +181,14 @@ My key responsibilities include:
 ![.NET](https://img.shields.io/badge/.NET-1e1e1e?style=for-the-badge&logo=.net&logoColor=5C2D91)
 
 **Cloud & Platforms:**  
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-1e1e1e?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Oracle](https://img.shields.io/badge/Oracle-1e1e1e?style=for-the-badge&logo=oracle&logoColor=F80000)
 
 ---
 
 ## 📊Github Stats:
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainea-bogdan&theme=codeSTACKr&" alt="zainea-bogdan"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zainea-bogdan&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="zainea-bogdan"/>
   
