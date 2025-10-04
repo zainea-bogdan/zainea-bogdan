@@ -24,15 +24,18 @@ My key responsibilities include:
 
 **Data Engineering & Analtytics:**
 
-- **[WoWCinema](https://github.com/zainea-bogdan/WoWCinema)**  
+- **[WoWCinema](https://github.com/zainea-bogdan/WoWCinema)**
+  
   End-to-end data project: ETL → PostgreSQL DW → Power BI dashboards.  
   *Python, PostgreSQL, Power BI*
 
 - **[FRF Football Analytics](https://github.com/zainea-bogdan/FRF-Football-Analytics)**    *On going*
+  
   Jupyter Notebook with analysis step alongside a Flask GUI, for easire interaction with the data.  
   *Python: Jupyter Notebook + Flask*
 
 - **[ZGB Spotify Popularity — Kaggle Analysis](https://github.com/zainea-bogdan/ZGB_Spotify_Popularity_Kaggle_Analysis)**    *On going*
+  
    Exploratory analysis of a ~1,000-song Kaggle dataset to uncover **popularity trends, artist performance, and audio feature patterns over time**.
   *Python: Pandas + Other Libraries*
  
@@ -40,6 +43,7 @@ My key responsibilities include:
 **C# Based**
 
 - **[Student Management System](https://github.com/zainea-bogdan/Student-Management-System)**    *On going*
+  
   Desktop app for managing students, grades, and courses with authentication and CRUD features.  
   *C#, WinForms, PostgreSQL*
 
@@ -71,11 +75,13 @@ My key responsibilities include:
 **Web Dev**
 
 - **[Personal Website](https://zainea-bogdan.github.io/Bodoz_Portofolio)**    *On going*
+ 
   Minimal **portfolio website** built to showcase my projects, challenges, and learning journey in tech world.
   *HTML, CSS, JavaScript, Responsive Design, GitHub Pages*
 
   
 - **[LSS Shop Prototype](https://github.com/zainea-bogdan/LSS_Shop_Prototype)**    *On going*
+  
   Collaborative **full-stack web app** developed after the **2025 Lenovo Summer School**, simulating real-world teamwork across **Frontend, Backend, and DevOps**. Features a simple Angular landing page connected to a **MongoDB database** with a Node.js backend, showcasing "Lenovo" merchandise and embedding a **Google Map** of the Bucharest HQ.  
   *Angular, Node.js, Express, MongoDB, Agile Collaboration*
 
