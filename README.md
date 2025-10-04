@@ -58,7 +58,7 @@ My key responsibilities include:
   Oracle APEX app with CRUD, authentication, and responsive UI.  
   *Oracle APEX, PL/SQL, HTML, CSS, Vanila JS*
 
-- **[Multigame Management System]([https://github.com/zainea-bogdan/Library-Management-Oracle-APEX](https://github.com/zainea-bogdan/Multi-Game_Management_System_Oracle_DB_Project))**  
+- **[Multigame Management System](https://github.com/zainea-bogdan/Multi-Game_Management_System_Oracle_DB_Project)**  
   Oracle Database for managing multiple games with similar structure, created for fictive game studio.  
   *Oracle SQL, PL/SQL*
 
