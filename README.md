@@ -42,7 +42,7 @@ My key responsibilities include:
 
 **C# Based**
 
-- **Student Management System **    *On going*
+-  **Student Management System **   *On going*
   
   Desktop app for managing students, grades, and courses with authentication and CRUD features.  
   *C#, WinForms, PostgreSQL*
@@ -54,21 +54,25 @@ My key responsibilities include:
 
 **Oracle Apex # PL/SQL**
 
-- **Library Management System**  
+- **Library Management System**
+  
   Collaborative project - Oracle APEX app with CRUD, authentication, and responsive UI.  
   *Oracle APEX, PL/SQL, HTML, CSS, Vanila JS*
 
-- **Multigame Management System**  
+- **Multigame Management System**
+  
   Oracle Database for managing multiple games with similar structure, created for fictive game studio.  
   *Oracle SQL, PL/SQL*
 
-- **Online Auction Platform Database**  
+- **Online Auction Platform Database**
+- 
   Relational database design for an **online auction platform**, enabling management of users, products, bids, payments, and deliveries.
   *Oracle SQL*
 
 
 **Power Bi**
-- **DataTribe Challenge – Sept 2025**  
+- **DataTribe Challenge – Sept 2025**
+  
   Data storytelling project built for the **RomanianDATA Tribe Challenge - Sept 2025**, highlighting **county-level packaging return patterns across Romania, per capita**.  
   *Power BI*
 
@@ -94,6 +98,7 @@ My key responsibilities include:
   *HTML,CSS,JS,React JS, Node&Express Js*
 
 **DSAD Practice Labs**
+
   Repository for hosting hoemworks/self practice from Data Analysis Course
   *Python: Pandas, Numpy, Seaborn,and others*
 
