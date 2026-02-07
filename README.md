@@ -1,10 +1,11 @@
-# Hello World! My name is Bogdan 👋
+# Hello World! I'm Bogdan 👋
 
 💡 **A few quick facts about me:**  
-- 🎓 I am final-year student, pursuing a Bachelor Degree in **Economic Informatics**, at ASE, Romania.  
-- 🌍 My main interests are: **full-stack development**, epxploring different tech stacks for now,  **data engineering & analysis** and **machine learning & AI**.  
-- 💻 Up until now I worked with different programming languages/technologies, such as **Python, C#, SQL, HTML-CSS-Vanilla JS, Oracle APEX**, and more.  
-- 📈 I am Always looking for new opotunities to combine creativity with tech, or contribute to cool projects.
+- 🎓 Final-year student pursuing a Bachelor’s degree in **Economic Informatics** at ASE, Romania.  
+- 🌍 Interested mainly in **data engineering and data analysis**, with some **machine learning & AI** along the way, plus **full-stack development** through my studies.  
+- 💻 Experienced with **Python, SQL, JavaScript, C#,Java, Oracle APEX and more**.  
+- ☁️ Currently learning the **Google Cloud ecosystem** and deepening my knowledge in **Python, SQL, and DevOps**.  
+- 📈 Always looking for opportunities to build useful projects, learn new technologies, and collaborate with others.
 
 ---
 
@@ -46,7 +47,7 @@ I recharge with anime. Favorites so far:
 - Running
 - Basketball
 - Voleyball
-- BJJ ( I wanna start practicing this one :) ) 
+- BJJ/Wrestling ( I wanna start practicing this one :) ) 
 
 ---
 
