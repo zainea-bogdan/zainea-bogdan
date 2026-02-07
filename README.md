@@ -64,4 +64,4 @@ Favorites:
 ---
 
 ## 📫 Reach Me
-[LinkedIn](https://www.linkedin.com/in/zainea-bogdan-b38518242) • [Portfolio](https://zainea-bogdan.github.io/Bodoz_Portofolio)
+[LinkedIn](https://www.linkedin.com/in/zainea-bogdan-🍜-b38518242/)
