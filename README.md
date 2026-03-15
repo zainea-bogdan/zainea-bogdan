@@ -9,7 +9,6 @@
 - 💻 Worked with **Python, SQL, JavaScript, C#, Java, Oracle APEX** and more.  
 - ☁️ Currently learning the **Google Cloud ecosystem** and deepening my knowledge in **Python, SQL, and DevOps**.  
 - 📈 Always looking for opportunities to build useful projects and collaborate.
-- [![committers.top badge](https://user-badge.committers.top/romania/zainea-bogdan.svg)](https://user-badge.committers.top/romania/zainea-bogdan)
 
 ---
 
